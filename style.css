@@ -181,7 +181,7 @@ span{
     text-align: justify; 
 }
 .myIframe {
-    display: block;
+    display: inline-block;
     flex: 2;
     border: none;
     width: 100%;
