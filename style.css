@@ -60,7 +60,7 @@ span{
     font-weight: 600;
 }
 .btn-box .btn:nth-child(2){
-    background: transparent;
+    background: #42c1a4;
     color: #42c1e8;
 }
 .btn-box .btn:nth-child(2):hover{
