@@ -59,8 +59,12 @@ span{
     letter-spacing: 1px;
     font-weight: 600;
 }
+.btn:hover{
+ background:#42c1a4;
+ color: white;
+}
 .btn-box .btn:nth-child(2){
-    background: #42c1a4;
+    background: transparent;
     color: #42c1e8;
 }
 .btn-box .btn:nth-child(2):hover{
